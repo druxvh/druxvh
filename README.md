@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋, I'm Druavh!
 
-<!--
-**druxvh/druxvh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **3rd-year student** passionate about coding and turning ideas into projects.
 
-Here are some ideas to get you started:
+### 🌟 About Me:
+- 👨‍💻 Exploring the world of web development.
+- 🚀 Building projects that solve real-world problems.
+- 🌱 Always learning and growing as a developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Looking For:
+I’m on the lookout for exciting **opportunities** to learn, collaborate, and grow. Let’s create something amazing together!  
+
+### 📬 Connect With Me:
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://twitter.com/druxvh)  
+[![Email](https://img.shields.io/badge/Email-Me-red?style=flat-square&logo=gmail)](mailto:heydruavh@gmail.com)
