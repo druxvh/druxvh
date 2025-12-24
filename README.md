@@ -1,11 +1,6 @@
 # Hi there 👋, I'm Druavh!
 
-I'm a **3rd-year student** passionate about coding and turning ideas into projects.
-
-### 🌟 About Me:
-- 👨‍💻 Exploring the world of web development.
-- 🚀 Building projects that solve real-world problems.
-- 🌱 Always learning and growing as a developer.
+I'm a recent graduate passionate about coding and turning ideas into projects.
 
 ### 🎯 Looking For:
 I’m on the lookout for exciting **opportunities** to learn, collaborate, and grow. Let’s create something amazing together!  
