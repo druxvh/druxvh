@@ -14,10 +14,10 @@ I enjoy turning ideas into production-ready products with Next.js, React, TypeSc
 
 ## Featured Projects
 
-⭐ **[Qforms](https://github.com/druxvh/qforms)** — A modern form builder with zod validation, multi-field support, authentication, RBAC, Razorpay, etc.
-⭐ **[Lazyman](https://github.com/druxvh/lazyman)** — A cross-platform remote automation suite that turns a smartphone into a low-latency controller for your PC.
+- ⭐ **[Qforms](https://github.com/druxvh/qforms)** — A modern form builder with zod validation, multi-field support, authentication, RBAC, Razorpay, etc.
+- ⭐ **[Lazyman](https://github.com/druxvh/lazyman)** — A cross-platform remote automation suite that turns a smartphone into a low-latency controller for your PC.
+- ⭐ **[Brokebros](https://github.com/druxvh/brokebros)** — A Next.js full-stack movie app built with a polished modern frontend.
 - **[Quick Summarizer](https://github.com/druxvh/ai-summarizer)** — An AI notes summarizer that converts long-form notes into concise bullet points.
-- **[Brokebros](https://github.com/druxvh/brokebros)** — A Next.js full-stack movie app built with a polished modern frontend.
 - **[F1-chatbot-frontend](https://github.com/druxvh/rag-chatbot-frontend)** — The frontend for a Formula One RAG chatbot experience.
 - **[Capacity-frontend](https://github.com/druxvh/capacity-frontend)** — Frontend for a Capacity ticketing help desk interface (UI Dashboard only).
 - **[Folio](https://github.com/druxvh/folio)** — A personal portfolio site built to present work and experience cleanly.
