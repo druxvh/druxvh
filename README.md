@@ -14,7 +14,7 @@ I enjoy turning ideas into production-ready products with Next.js, React, TypeSc
 
 ## Featured Projects
 
-⭐ **[Qforms](https://github.com/druxvh/qforms)** — A modern form builder with validation, reusable components, multi-field support, Authentication, RBAC, Razorpay, etc.
+⭐ **[Qforms](https://github.com/druxvh/qforms)** — A modern form builder with zod validation, multi-field support, authentication, RBAC, Razorpay, etc.
 ⭐ **[Lazyman](https://github.com/druxvh/lazyman)** — A cross-platform remote automation suite that turns a smartphone into a low-latency controller for your PC.
 - **[Quick Summarizer](https://github.com/druxvh/ai-summarizer)** — An AI notes summarizer that converts long-form notes into concise bullet points.
 - **[Brokebros](https://github.com/druxvh/brokebros)** — A Next.js full-stack movie app built with a polished modern frontend.
